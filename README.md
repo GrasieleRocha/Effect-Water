@@ -10,7 +10,7 @@ CSS <br>
 
 ## 🚀 App no ar
 
-App no ar: 
+App no ar: https://effectwater.netlify.app/
 
 Tutorial: https://www.youtube.com/watch?v=Tf6qm5JMUXQ&t=18s
 
